@@ -924,6 +924,7 @@
     <string name="enable_navkeys_title">Enables hardware buttons</string>
     <string name="enable_navkeys_summary"> </string>
 
+<<<<<<< HEAD
     <!-- tap-to-sleep -->
     <string name="double_tap_to_sleep_title">Double-tap to sleep</string>
     <string name="double_tap_to_sleep_summary">Double tap status bar or lock screen slider to put the device to sleep</string>
@@ -1043,3 +1044,9 @@
     <string name="select_contact">Select contact</string>
 
 </resources>
+=======
+    <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
+    <string name="supersu_title">SuperSU</string>
+
+</resources>
+>>>>>>> c5e62d4... Backport Launch SuperSU from Settings
