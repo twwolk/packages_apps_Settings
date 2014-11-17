@@ -1051,6 +1051,9 @@
     <string name="zen_mode_none_category">No interruptions</string>
     <string name="zen_mode_alarms">Allow alarms</string>
 
+    <!-- Sound & notification > Other sounds: Title for the option enabling sound on volume slide adjust. [CHAR LIMIT=30] -->
+    <string name="volume_adjust_sound_title">Volume slider sound</string>
+
 </resources>
 =======
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
