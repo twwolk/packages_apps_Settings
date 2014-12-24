@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Network Traffic</string>
+    <string name="show_network_traffic_state">Statusleiste Traffic Monitor</string>
+    <string name="network_traffic_summary">Aktivieren Sie verschiedene Netzwerkverkehr Optionen in der Statusleiste</string>
+    <string name="show_network_traffic_unit">Anzeigeeinheit</string>
+    <string name="show_network_traffic_frequency">Aktualisierungsintervall</string>
+    <string name="show_network_traffic_disable">nicht aktiviert</string>
+    <string name="show_network_traffic_up">abgehend</string>
+    <string name="show_network_traffic_down">eingehend</string>
+    <string name="show_network_traffic_all">abgehend und eingehend</string>
+    <string name="show_network_traffic_bit">Bits pro Sekunde</string>
+    <string name="show_network_traffic_byte">Bytes pro Sekunde</string>
+    <string name="show_network_traffic_500">500 ms</string>
+    <string name="show_network_traffic_1000">1000 ms</string>
+    <string name="show_network_traffic_1500">1500 ms</string>
+    <string name="show_network_traffic_2000">2000 ms</string>
+    <string name="network_traffic_autohide">Automatisch im Hintergrund</string>
+    <string name="network_traffic_autohide_summary">Ausblenden des Traffic Monitor, wenn es keine Aktivität gibt</string>
+    <string name="network_traffic_autohide_threshold">Inaktivitätsschwelle</string>
+
+</resources>
