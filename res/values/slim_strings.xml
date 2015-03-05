@@ -1048,6 +1048,9 @@
     <string name="status_bar_show_weather_title">Show weather</string>
     <string name="status_bar_show_weather_summary">Show the weather above the Quick Settings panel</string>
 
+    <string name="zen_mode_none_category">No interruptions</string>
+    <string name="zen_mode_alarms">Allow alarms</string>
+
 </resources>
 =======
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
