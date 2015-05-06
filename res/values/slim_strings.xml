@@ -1051,5 +1051,7 @@
     <!-- BitSyko Layers  -->
     <string name="bitsyko_layers">Layers</string>
 
+    <string name="usb_not_connected">USB not connected</string>
+
 </resources>
 >>>>>>> c5e62d4... Backport Launch SuperSU from Settings
